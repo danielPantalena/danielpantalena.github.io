@@ -47,6 +47,15 @@
   box-sizing: border-box;
 }
 
+#trybe {
+  color: rgba(255, 255, 255, 0.644);;
+}
+
+#trybe:hover {
+  color: white;
+  font-weight: 600;
+}
+
 html {
   font-family: sans-serif;
   line-height: 1.15;
